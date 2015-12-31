@@ -1,7 +1,7 @@
 # pi-cam-kernelconfig
 Raspberry Pi based webcam kernel config, for v4.1.15. This will compile the kernel in LZMA compression format, resulting in ~2.4MB (2.39 MB) in size.
 
-Tugas Sysprog kelompok **The Agents**
+Tugas Sysprog kelompok **The Agents**- other members (credits for GPIO and Bootscripts: Alvin, Anthony, Christian, Saga)
 
 ##Steps:
 
